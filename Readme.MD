@@ -14,6 +14,7 @@ Luma Link:
 https://lu.ma/opk4nkdr
 
 Subscribe to our events calender:
+https://lu.ma/thelearningdev
 https://lu.ma/kugchennai
 
 **Technologies:**
